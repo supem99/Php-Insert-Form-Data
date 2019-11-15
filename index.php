@@ -26,7 +26,7 @@
 
     Age             <input type="number" name="age" required  min="10" max="99"><br><br>
 
-    <input type="submit" name="insert" value="Add to Data">  <input type="reset" n value="reset">
+    <input type="submit" name="insert" value="Add to Data">  <input type="reset"  value="reset">
 
 </pre>
 
